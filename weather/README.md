@@ -59,7 +59,3 @@ The following environment variables are required:
 - `API_KEY`: The API key for accessing the weather service.
 
 Make sure to set these variables in your `.env` file before running the application.
-
----
-
-Esse README pode ser ajustado conforme necessário, dependendo das funcionalidades específicas do seu projeto.
