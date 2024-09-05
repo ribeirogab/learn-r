@@ -22,7 +22,6 @@ if (length(args) == 0) {
 city <- args[1]
 
 # Define your API key and the desired city
-api_key <- "a1ee07edd49b78350d57600e6c69146f"
 units <- "metric" # To use Celsius
 
 # Encode the city to ensure special characters don't cause issues
